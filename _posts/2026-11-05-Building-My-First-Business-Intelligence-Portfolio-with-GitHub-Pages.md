@@ -1,6 +1,7 @@
 ---
 title: "Building My First Business Intelligence Portfolio with GitHub Pages"
 date: 2026-11-05
+---
 
 As a Business Intelligence professional, I've spent the last few years creating dashboards, developing reporting solutions and helping organisations turn data into meaningful insights. However, much of my work has been spread across different platforms, including Tableau Public, GitHub repositories and project documentation. I wanted a place where I could bring everything together and showcase my work in a more professional and accessible way.
 
@@ -56,4 +57,4 @@ This portfolio is very much a work in progress, but that's part of the journey. 
 My goal is simple: to create a space that showcases my work, shares my experiences and documents my continued growth as a Business Intelligence professional.
 
 And this first blog post feels like the perfect place to start.
----
+
