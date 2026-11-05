@@ -1,6 +1,6 @@
 ---
-
 title: Holly Jones | Business Intelligence Portfolio
+---
 
 Transforming complex data into actionable insights through Power BI, Tableau and SQL.
 
@@ -10,5 +10,3 @@ I'm a Business Intelligence and Analytics professional with experience deliverin
 
 My experience spans dashboard development, KPI reporting, data modelling, performance analysis and stakeholder engagement, helping organisations make better decisions through trusted and accessible reporting solutions. Alongside technical delivery, I have led training programmes, promoted self-service analytics and enabled thousands of users to adopt data-driven ways of working.
 
-
----
