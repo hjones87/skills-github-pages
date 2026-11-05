@@ -2,7 +2,7 @@
 title: Holly Jones | Business Intelligence Portfolio
 ---
 
-Transforming complex data into actionable insights through Power BI, Tableau and SQL.
+Transforming complex data into actionable insights through Tableau, Power BI, SQL, dbt and Github.
 
 ## About Me
 
