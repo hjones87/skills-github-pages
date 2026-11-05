@@ -1,6 +1,14 @@
 ---
-title: "Building My First Business Intelligence Portfolio with GitHub Pages"
+
 date: 2026-11-05
+layout: post
+title: Building My First Business Intelligence Portfolio with GitHub Pages
+date: Posted 5th Nov 2026
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [GitHub, Pages]
+author: Holly Jones
 ---
 
 As a Business Intelligence professional, I've spent the last few years creating dashboards, developing reporting solutions and helping organisations turn data into meaningful insights. However, much of my work has been spread across different platforms, including Tableau Public, GitHub repositories and project documentation. I wanted a place where I could bring everything together and showcase my work in a more professional and accessible way.
