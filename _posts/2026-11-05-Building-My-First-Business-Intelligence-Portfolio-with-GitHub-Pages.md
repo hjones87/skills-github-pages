@@ -20,12 +20,12 @@ Before writing any code, I spent some time thinking about the purpose of the web
 
 My primary goal was to create a portfolio that would be useful for recruiters, hiring managers and fellow data professionals. With that in mind, I've structured the site around a few key areas:
 
-A brief introduction and professional profile
-Featured Power BI and Tableau projects
-GitHub repositories and technical work
-Skills, certifications and achievements
-Blog content and project write-ups
-Contact information and professional links
+- A brief introduction and professional profile
+- Featured Power BI and Tableau projects
+- GitHub repositories and technical work
+- Skills, certifications and achievements
+- Blog content and project write-ups
+- Contact information and professional links
 
 Rather than creating a simple gallery of dashboards, I want each project to tell a story.
 
@@ -35,11 +35,11 @@ One thing I've learned throughout my career is that visualisations are only part
 
 For that reason, each portfolio project will include:
 
-The business challenge
-The tools and technologies used
-The approach taken
-Key findings and insights
-Outcomes and impact
+- The business challenge
+- The tools and technologies used
+- The approach taken
+- Key findings and insights
+- Outcomes and impact
 
 My hope is that this demonstrates analytical thinking and business understanding, not just technical capability.
 
